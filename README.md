@@ -2,6 +2,8 @@
 
 A retrieval-augmented generation (RAG) chatbot that answers questions based on PDF documents using semantic search and streaming responses. This project demonstrates core RAG concepts including document chunking, semantic embeddings, vector database indexing, and prompt-based generation with an open-source LLM.
 
+Demo link - https://drive.google.com/file/d/1t6cqD2asWjSVTVDVc41GP6WFSfw0l3Ef/view?usp=sharing
+
 **Disclaimer:** This is an educational implementation created for a Junior AI Engineer assignment to demonstrate RAG architecture principles. It is not a production-grade system.
 
 ---
